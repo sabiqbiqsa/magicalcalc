@@ -15,3 +15,4 @@ while run:
             check = re.sub('[A-Za-pr-z,.?/><#@!()]', '', check)
         run = False
         print("Thanks for using our app")
+        print("github test")
